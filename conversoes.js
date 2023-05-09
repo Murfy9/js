@@ -14,3 +14,4 @@ console.log(numero + Number(numeroString));
 
 // Converter String para Number == Number()
 // Converter Number para String == String()
+// O .toString() é uma outra forma para  fazer essa conversão, que é mais parecida com outras linguagens de programação.
