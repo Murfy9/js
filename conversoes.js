@@ -11,3 +11,6 @@ console.log(numero + numeroString); //Forma uma concatenação "456456"
 // Conversão Explícita
 
 console.log(numero + Number(numeroString));
+
+// Converter String para Number == Number()
+// Converter Number para String == String()
