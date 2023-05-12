@@ -13,4 +13,4 @@ const somaNumerosPequenos = (num1, num2) => {
   }
 };
 
-// Hoisting: Arrow Function se comporta como Expressão de Função
+// Arrow Function se comporta como Expressão de Função não tem suporte à Hoisting
